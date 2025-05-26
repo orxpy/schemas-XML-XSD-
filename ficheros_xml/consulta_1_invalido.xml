@@ -1,0 +1,14 @@
+<EmpleadosConSalarioSuperiorAlPromedioDepartamental>
+  <Empleado>
+    <Nombre>Lex</Nombre>
+    <SalarioEmpleado>17000.00</SalarioEmpleado>
+    <Departamento>Executive</Departamento>
+    <SalarioPromedioDepartamento>20000.00</SalarioPromedioDepartamento>
+  </Empleado>
+  <Empleado>
+    <Nombre>Jennifer</Nombre>
+    <Apellido>Whalen</Apellido>
+    <SalarioEmpleado>TEXTO_INVALIDO</SalarioEmpleado> <Departamento>Administration</Departamento>
+    <SalarioPromedioDepartamento>4400.00</SalarioPromedioDepartamento>
+  </Empleado>
+</EmpleadosConSalarioSuperiorAlPromedioDepartamental>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalisisSalarialGerentesNoGerentes>
+  <DepartamentoAnalisis>
+    <NombreDepartamento>Executive</NombreDepartamento>
+    <SalarioPromedioGerentes>20500.00</SalarioPromedioGerentes> <SalarioPromedioNoGerentes>17000.00</SalarioPromedioNoGerentes> <DiferenciaSalarialPromedio>3500.00</DiferenciaSalarialPromedio>
+  </DepartamentoAnalisis>
+  <DepartamentoAnalisis>
+    <NombreDepartamento>IT</NombreDepartamento>
+    <SalarioPromedioGerentes>12000.00</SalarioPromedioGerentes> <SalarioPromedioNoGerentes>5760.00</SalarioPromedioNoGerentes>
+    <DiferenciaSalarialPromedio>6240.00</DiferenciaSalarialPromedio>
+  </DepartamentoAnalisis>
+  </AnalisisSalarialGerentesNoGerentes>

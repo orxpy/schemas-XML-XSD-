@@ -1,0 +1,17 @@
+<EmpleadosConSalarioSuperiorAlPromedioDepartamental>
+  <Empleado>
+    <Nombre>Steven</Nombre>
+    <Apellido>King</Apellido>
+    <SalarioEmpleado>24000.00</SalarioEmpleado>
+    <Departamento>Executive</Departamento>
+    <SalarioPromedioDepartamento>20000.00</SalarioPromedioDepartamento>
+  </Empleado>
+  <Empleado>
+    <Nombre>Neena</Nombre>
+    <Apellido>Kochhar</Apellido>
+    <SalarioEmpleado>19000.00</SalarioEmpleado>
+    <Departamento>Executive</Departamento>
+    <SalarioPromedioDepartamento>20000.00</SalarioPromedioDepartamento>
+  </Empleado>
+  </EmpleadosConSalarioSuperiorAlPromedioDepartamental>
+  
