@@ -1,0 +1,8 @@
+<EmpleadosConSalarioFueraDeRango>
+  <Empleado>
+    <Nombre>David</Nombre>
+    <Apellido>Austin</Apellido>
+    <SalarioActual>3500.00</SalarioActual>
+    <Puesto>Programmer</Puesto>
+    </Empleado>
+  <OtroElementoNoPermitido/> </EmpleadosConSalarioFueraDeRango>

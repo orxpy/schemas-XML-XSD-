@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmpleadosConSalarioFueraDeRango>
+  <Empleado>
+    <Nombre>Steven</Nombre>
+    <Apellido>King</Apellido>
+    <SalarioActual>24000.00</SalarioActual>
+    <Puesto>President</Puesto>
+    <SalarioMinimoPuesto>20000.00</SalarioMinimoPuesto>
+    <SalarioMaximoPuesto>40000.00</SalarioMaximoPuesto>
+  </Empleado>
+  <Empleado>
+    <Nombre>Alexander</Nombre>
+    <Apellido>Hunold</Apellido>
+    <SalarioActual>9000.00</SalarioActual>
+    <Puesto>Programmer</Puesto>
+    <SalarioMinimoPuesto>4000.00</SalarioMinimoPuesto>
+    <SalarioMaximoPuesto>10000.00</SalarioMaximoPuesto>
+  </Empleado>
+  <Empleado>
+    <Nombre>David</Nombre>
+    <Apellido>Austin</Apellido>
+    <SalarioActual>3500.00</SalarioActual> 
+    <Puesto>Programmer</Puesto>
+    <SalarioMinimoPuesto>4000.00</SalarioMinimoPuesto>
+    <SalarioMaximoPuesto>10000.00</SalarioMaximoPuesto>
+  </Empleado>
+</EmpleadosConSalarioFueraDeRango>

@@ -1,0 +1,1 @@
+DROP TABLE HR.lab_inserciones_xml;

@@ -1,0 +1,10 @@
+<PresupuestoSalarialPorDepartamento>
+  <DepartamentoInfo>
+    <NombreDepartamento>Sales</NombreDepartamento>
+    <PorcentajeDelTotalCompania>44.04</PorcentajeDelTotalCompania>
+    <ElementoExtraNoDefinido>123</ElementoExtraNoDefinido> </DepartamentoInfo>
+  <DepartamentoInfo>
+    <NombreDepartamento>IT</NombreDepartamento>
+    <SalarioTotalDepartamento>28800</SalarioTotalDepartamento>
+    <PorcentajeDelTotalCompania>MUCHOTEXTO</PorcentajeDelTotalCompania> </DepartamentoInfo>
+</PresupuestoSalarialPorDepartamento>

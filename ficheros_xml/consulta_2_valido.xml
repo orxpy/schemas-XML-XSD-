@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PresupuestoSalarialPorDepartamento>
+  <DepartamentoInfo>
+    <NombreDepartamento>Executive</NombreDepartamento>
+    <SalarioTotalDepartamento>58000.00</SalarioTotalDepartamento>
+    <PorcentajeDelTotalCompania>8.41</PorcentajeDelTotalCompania>
+  </DepartamentoInfo>
+  <DepartamentoInfo>
+    <NombreDepartamento>Sales</NombreDepartamento>
+    <SalarioTotalDepartamento>304500.00</SalarioTotalDepartamento>
+    <PorcentajeDelTotalCompania>44.16</PorcentajeDelTotalCompania>
+  </DepartamentoInfo>
+  </PresupuestoSalarialPorDepartamento>
